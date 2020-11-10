@@ -1,0 +1,21 @@
+h2{
+    margin:50px;
+    color:purple;
+    font-weight: bold;
+}
+
+.fa-star{
+   font-size: 50px;
+   cursor: pointer;
+   color: blue;
+}
+
+.card{
+    border: solid purple;
+    border-radius: 50px;
+    box-shadow: 5px 10px 6px grey;
+}
+
+.color-change{
+    color:purple;
+}
